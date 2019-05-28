@@ -11,6 +11,7 @@ buildscript {
 
 group 'com.cedarhd'
 version '1.0'
+name: some-application
 
 apply plugin: 'java'
 apply plugin: 'org.springframework.boot'
